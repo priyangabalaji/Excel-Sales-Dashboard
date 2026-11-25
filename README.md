@@ -4,8 +4,8 @@
 This project focuses on analyzing sales data and creating an interactive Sales Performance Dashboard using Microsoft Excel. The dashboard helps understand business performance through KPIs, Pivot Tables, Pivot Charts, and Interactive Slicers.
 
 ##Dashboard View
-![Image 1](img/dasboard(1).png)
-![Image 2](img/dasboard(2).png)
+![Image 1](img/dashboard(1).png)
+![Image 2](img/dashboard(2).png)
 
 ## Tools Used
 - Microsoft Excel
